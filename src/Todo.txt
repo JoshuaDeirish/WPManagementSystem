@@ -1,0 +1,14 @@
+TODO
+1. the first page should be a login page. it should have an option to allow people who aren't apart of the site to sign up.
+2. it needs to have multiple sections that you can navigate to. profile, schedule, book time off, give shift away, vacation time, 
+availability.
+3. profile section needs to display persons personal information and allow them to change their profile if needs be. also allow 
+them to logout.
+4. schedule section needs to display persons schedule on a calendar and also display the time they and others must be in by.
+5. book time off section needs to allow people to book off time or call in sick.
+6. give shift away section needs to allow people to give shift away to another coworker. (one person would send a request and the 
+other would accept the request or decline the request).
+7. similar to the book time off section, vacation time should allow people to schedule time off for vacation. people should 
+only get a certain amount of days they can book off based on their position.
+8. availability section should allow people to set their availability.
+9. you should be able to go to any page from any section of the site.
